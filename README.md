@@ -1,3 +1,3 @@
-# tenbo Website
+# Tenbo Website
 
-## Website for tenbo studios
+## Website for Tenbo soft
